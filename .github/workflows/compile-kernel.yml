@@ -18,6 +18,7 @@ on:
         options:
           - unifreq
           - codesnas/linux-6.1.y@main
+          - r1172464137/linux-6.1.y@main
       kernel_version:
         description: "Select kernel version"
         required: false
