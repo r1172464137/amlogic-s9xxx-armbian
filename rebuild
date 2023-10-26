@@ -74,7 +74,7 @@ armbian_release_file="etc/armbian-release"
 ophub_release_file="etc/ophub-release"
 
 # U-BOOT files download repository
-uboot_repo="https://github.com/ophub/u-boot/tree/main/u-boot"
+uboot_repo="https://github.com/r1172464137/u-boot/tree/main/u-boot"
 # Convert firmware repository address to svn format
 uboot_repo="${uboot_repo//tree\/main/trunk}"
 
